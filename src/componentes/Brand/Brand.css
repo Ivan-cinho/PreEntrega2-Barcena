@@ -1,0 +1,20 @@
+* {
+    font-family: sans-serif;
+}
+
+.brand {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 20%;
+}
+
+h1 {
+    rotate: -45deg;
+    color: rgb(130, 98, 160);
+}
+
+.brando {
+    width: 95%;
+
+}

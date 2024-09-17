@@ -1,0 +1,10 @@
+.cartwidget {
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carrito {
+    width: 40%;
+}

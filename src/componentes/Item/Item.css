@@ -1,0 +1,26 @@
+
+.cardProducto {
+    padding: 1%;
+    background-color: rgb(241, 241, 241);
+    margin: 1% auto;
+    text-align: center; 
+}
+
+h3, p {
+    margin: 2% auto;
+    text-align: center;
+}
+
+.link {
+    display: inline-block; 
+    margin: 2% auto;
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 5px;
+}
+
+.link:hover {
+    background-color: #086edb;
+}

@@ -1,0 +1,35 @@
+
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px black solid;
+    padding: 1%;
+}
+
+nav {
+    width: 60%;
+}
+
+
+
+ul {
+    padding: 0 ;
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    margin: auto;
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(130, 98, 160);
+    font-size: larger;
+    font-weight: 900;
+}
+
+li:hover {
+    color: rgb(184, 3, 255);
+    cursor: pointer;
+}
